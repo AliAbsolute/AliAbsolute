@@ -10,6 +10,14 @@
 
 ---
 
+## 💻 Tech Stack
+
+- **Languages:** C++, Python, JavaScript, SQL, Java, HTML/CSS, MATLAB  
+- **Tools & Frameworks:** LabVIEW, Qiskit, Arduino, Node.js, Git, GitHub  
+- **Specialties:** Embedded Systems | AI/ML | Web Dev | Quantum Computing | Hardware Design
+
+---
+  
 ## 🚀 Projects That I'm Proud Of
 
 - 🧠 **ruwyah** — AI-powered marketing experimentation agent for solopreneurs and SMBs  
@@ -20,14 +28,6 @@
 
 - 📡 **Secure GPS Tracker** — Embedded C++ & Arduino-based security device  
   > Real-time location with emergency alert integration
-
----
-
-## 💻 Tech Stack
-
-- **Languages:** C++, Python, JavaScript, SQL, Java, HTML/CSS, MATLAB  
-- **Tools & Frameworks:** LabVIEW, Qiskit, Arduino, Node.js, Git, GitHub  
-- **Specialties:** Embedded Systems | AI/ML | Web Dev | Quantum Computing | Hardware Design
 
 ---
 
