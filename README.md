@@ -5,14 +5,14 @@
 
 🎓 Computer Engineering Student @ University of Cincinnati  
 🚀 Passionate about software engineering, embedded systems, AI, and web development  
-🏆 Honors Student | Quantum Computing Enthusiast | Passionate about solving real-world problems through code
+🏆 Honors Student | Quantum Computing Enthusiast
 💡 Founder of ruwyah – AI marketing tool for SMBs
 
 ---
 
 ## 🚀 Projects That I'm Proud Of
 
-- 🧠 **[ruwyah]** — AI-powered marketing experimentation agent for solopreneurs and SMBs  
+- 🧠 **ruwyah** — AI-powered marketing experimentation agent for solopreneurs and SMBs  
   > Automates A/B testing with zero data expertise required
 
 - 🤖 **Lego EV3 Robotics System** — Autonomous robot using LabVIEW & multiple sensors  
