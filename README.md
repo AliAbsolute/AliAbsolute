@@ -1,7 +1,7 @@
 
 # Hi there, I'm Ali 
 
-# Available for Fall 2025 Co-op
+# Available for Spring 2026 Co-op
 
 🎓 Computer Engineering Student @ University of Cincinnati  
 🚀 Passionate about software engineering, embedded systems, AI, and web development  
