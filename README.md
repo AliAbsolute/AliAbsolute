@@ -1,10 +1,9 @@
 
 # Hi there, I'm Ali 
 
-# Available for Spring 2026 Co-op
 
-🎓 Computer Engineering Student @ University of Cincinnati  
-🚀 Passionate about software engineering, embedded systems, AI, and web development  
+🎓 Computer Engineering and Electrical Engineering Student @ University of Cincinnati  
+🚀 Passionate about software engineering, industrial systems, AI, and web development  
 🏆 Honors Student | Quantum Computing Enthusiast
 💡 Founder of ruwyah – AI marketing tool for SMBs
 
