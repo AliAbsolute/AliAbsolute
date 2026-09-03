@@ -1,34 +1,13 @@
 
 # Hi there, I'm Ali 
 
-
 🎓 Computer Engineering and Electrical Engineering Student @ University of Cincinnati  
-🚀 Passionate about software engineering, industrial systems, AI, and web development  
-🏆 Honors Student | Quantum Computing Enthusiast
-💡 Founder of ruwyah – AI marketing tool for SMBs
-
----
 
 ## 💻 Tech Stack
 
 - **Languages:** C++, Python, JavaScript, SQL, Java, HTML/CSS, MATLAB  
 - **Tools & Frameworks:** LabVIEW, Qiskit, Arduino, Node.js, Git, GitHub  
 - **Specialties:** Embedded Systems | AI/ML | Web Dev | Quantum Computing | Hardware Design
-
----
-  
-## 🚀 Projects That I'm Proud Of
-
-- 🧠 **ruwyah** — AI-powered marketing experimentation agent for solopreneurs and SMBs  
-  > Automates A/B testing with zero data expertise required
-
-- 🤖 **Lego EV3 Robotics System** — Autonomous robot using LabVIEW & multiple sensors  
-  > Line-following, bin-picking, object-sorting with feedback logic
-
-- 📡 **Secure GPS Tracker** — Embedded C++ & Arduino-based security device  
-  > Real-time location with emergency alert integration
-
----
 
 ## 💬 Let's Connect!
 
